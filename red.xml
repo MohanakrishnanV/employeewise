@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <robotExecEnvironment path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311" interpreter="Python"/>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.base" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.base.context" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.base.librarycomponent" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.CookieNotFound" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.ElementNotFound" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.NoOpenBrowser" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.PluginError" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.SeleniumLibraryException" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.WindowNotFound" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.alert" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.browsermanagement" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.cookie" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.element" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.formelement" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.frames" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.javascript" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.runonfailure" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.screenshot" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.selectelement" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.tableelement" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.waiting" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.sl_file_detector" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.sl_file_detector.SelLibLocalFileDetector" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.webdrivertools.SeleniumOptions" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.webdrivertools.WebDriverCache" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.window" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators.customlocator" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators.elementfinder" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators.windowmanager" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events.event" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events.event.Event" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events.scope_event" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.librarylistener" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.librarylistener.LibraryListener" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.path_formatter" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.path_formatter._SafeFormatter" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.se_version" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.types" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="Selenium2Library" path="C:/Users/EICPL02-L69/AppData/Local/Programs/Python/Python311/Lib/site-packages/Selenium2Library/__init__.py" dynamic="false"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
