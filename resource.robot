@@ -1,5 +1,5 @@
 *** Settings ***
-Library       SeleniumLibrary
+Library    SeleniumLibrary
 
 *** Variables ***
 ${url}         https://www.myemploywise.com/asperm/servlet/ggs.erm.servlet.setup3.LoginS?customer_code=excelencia    
@@ -12,6 +12,13 @@ ${user-name-feild}    id=User_Name
 ${password-feild}    id=Password
 ${login-button}    //input[@value='LOGIN']
 ${logout-button}    //a[normalize-space()='Log out']
+${peopleListMenu}    //a[@id='peopleListMenu']
+${Company Directory}    //a[normalize-space()='Company Directory']
+${Next}    //span[normalize-space()='Next >>']
+
+# Assertions Data
+${profile-name}    Mohana krishnan Vijaya kumar
+
 
 *** Keywords ***
 LoginKW
